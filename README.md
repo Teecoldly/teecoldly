@@ -1,6 +1,9 @@
 ### Hi there 👋
 
- 
+ Panus's DiscordPanus TwitterPanus's LinkedINPanus's SpotifyPanus's Reddit
+
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
