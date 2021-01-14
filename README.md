@@ -1,17 +1,103 @@
-### Hi there 👋
+### Hi, Anirut Sriwiruch! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+ 
+Hi, I'm [Anirut Sriwiruch](https://fb.com/viptee) 
 
- Panus's DiscordPanus TwitterPanus's LinkedINPanus's SpotifyPanus's Reddit
+ 
+**Talking about Personal Stuffs:**
+ 
+- <img height="16px" src="https://cdn.svgporn.com/logos/facebook.svg"> [teecoldly](https://web.facebook.com/viptee/)
 
 
 
-Here are some ideas to get you started:
+**Languages and Tools:**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+ 
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+ 
+```
+
+## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
+
+<table>
+  <tbody>
+  <tr valign="top">
+      <td width="25%" align="center">
+        <span><b>Laravel</b></span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/laravel.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><b>Nuxt.JS</b></span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/nuxt-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><b>Vue</b></span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><b>Ant design</b></span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/ant-design.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>Visual Studio Code</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Git</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Postman</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/postman.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>React</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>PostgreSQL</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>MariaDB</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/mariadb-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>MongoDB</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Express</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/express.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>Java</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>php</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/php.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Docker</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/docker.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Tailwind Css</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss.svg">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+ 
+ 
