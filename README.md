@@ -1,6 +1,6 @@
-### Hi, Anirut Sriwiruch! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
  
-Hi, I'm [Anirut Sriwiruch](https://fb.com/viptee) 
+ 
+Hi, I'm [Anirut Sriwiruch](https://fb.com/viptee) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
  
 **Talking about Personal Stuffs:**
