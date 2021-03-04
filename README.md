@@ -24,7 +24,6 @@ Hi, I'm [Anirut Sriwiruch](https://fb.com/viptee) <img src="https://media.giphy.
 
 <table>
   <tbody>
-   
     <tr valign="top">
       <td width="25%" align="center">
         <span>Visual Studio Code</span><br><br>
