@@ -24,24 +24,7 @@ Hi, I'm [Anirut Sriwiruch](https://fb.com/viptee) <img src="https://media.giphy.
 
 <table>
   <tbody>
-  <tr valign="top">
-      <td width="25%" align="center">
-        <span><b>Laravel</b></span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/laravel.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><b>Nuxt.JS</b></span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/nuxt-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><b>Vue</b></span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><b>Ant design</b></span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/ant-design.svg">
-      </td>
-    </tr>
+   
     <tr valign="top">
       <td width="25%" align="center">
         <span>Visual Studio Code</span><br><br>
