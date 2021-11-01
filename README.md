@@ -59,6 +59,24 @@ Hi, I'm [Anirut Sriwiruch](https://fb.com/viptee) <img src="https://media.giphy.
         <img height="64px" src="https://cdn.svgporn.com/logos/express.svg">
       </td>
     </tr>
+   <tr valign="top">
+       <td width="25%" align="center">
+        <span>C#</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg"
+      </td>
+       <td width="25%" align="center">
+        <span>Python</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>JavaScript</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Typescript</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/typescript-icon.svg">
+      </td>
+    </tr>
   </tbody>
 </table>
 
