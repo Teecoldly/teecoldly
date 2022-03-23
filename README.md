@@ -3,9 +3,7 @@
 
 <img src="https://github.com/Teecoldly/teecoldly/blob/main/github-header-image%20(1).png" alt="Anirut Developer">
 
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
+ 
   
 
 ### <div align="center">I'm Anirut, a full-time full-stack developer 👨‍💻  </div>  
