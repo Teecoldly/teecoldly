@@ -9,7 +9,7 @@
 ### <div align="center">I'm Anirut, a full-time full-stack developer 👨‍💻  </div>  
   
 
-- 🔭 I’m currently working on [GoConnext](https://www.goconnext.com/)  
+- 🔭 I’m currently working programmer 
   
 
 - 🌱 I’m currently learning    
