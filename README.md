@@ -71,8 +71,7 @@
 </td></tr></table>  
 
 <br/>  
-## Snake  
-![snake gif](https://github.com/Teecoldly/teecoldly/blob/output/github-contribution-grid-snake.gif)
+ 
 
 ## Connect with me  
 <div align="center">
@@ -102,4 +101,8 @@
 <img src="https://komarev.com/ghpvc/?username=teecoldly&&style=flat-square" align="center" />
 </div>  
  
+ ## Snake  
+ <div align="center">
+ <img src="https://github.com/Teecoldly/teecoldly/blob/output/github-contribution-grid-snake.gif" align="center" />
  
+</div>  
