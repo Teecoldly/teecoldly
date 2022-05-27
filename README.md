@@ -71,7 +71,8 @@
 </td></tr></table>  
 
 <br/>  
-
+## Snake  
+![snake gif](https://github.com/Teecoldly/teecoldly/blob/output/github-contribution-grid-snake.gif)
 
 ## Connect with me  
 <div align="center">
