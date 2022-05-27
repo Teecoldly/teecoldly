@@ -94,7 +94,10 @@
  
   
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=teecoldly&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=teecoldly&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+ 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teecoldly)
 
 <br/>
 <div align="center">
@@ -106,5 +109,5 @@
  <img src="https://github.com/Teecoldly/teecoldly/blob/output/github-contribution-grid-snake.gif" align="center" />
  
 </div>  
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
+ 
